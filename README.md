@@ -1,3 +1,5 @@
+![zoz_Github_banner_copy](https://user-images.githubusercontent.com/123525091/222915607-b1c07f87-80d2-4beb-9fc3-f8cee0fe65f1.png)
+
 <h1 align="center">Hi 👋, I'm Zeyad Tolba</h1>
 <h3 align="center">A mechatronics engineer with a wide knowledge in different fields such as: Artificial Intelligence, Automation, Biomedical, Computer aided design, Control system, Robotics, and Software engineering. Looking forward to positively impact the society and establishing a successful career.</h3>
 
@@ -6,8 +8,6 @@
 - 📫 How to reach me **zeiad.tolba96@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tZbkJVf07HHaFO9ClSha7fKBxxYzSMxW/view?usp=share_link](https://drive.google.com/file/d/1tZbkJVf07HHaFO9ClSha7fKBxxYzSMxW/view?usp=share_link)
-
-- ⚡ Fun fact **My nickname is Nig El Arnoob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
